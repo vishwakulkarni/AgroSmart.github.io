@@ -98,7 +98,7 @@ header {
 }
 #logo {
 	display:block;
-	background:url(../images/logo.png) 0 0 no-repeat;
+	background:url(../images/logo.jpg) 0 0 no-repeat;
 	width:298px;
 	height:79px;
 	text-indent:-9999px
@@ -463,3 +463,14 @@ footer a:hover {
 	font:14px "Trebuchet MS", Arial, Helvetica, sans-serif;
 	margin:0
 }
+
+.rcorners1 {
+    border-radius: 25px;
+    background: #ffffff;
+    padding: 5px;
+	width: 180px;
+	height: 180px;
+}
+
+
+
